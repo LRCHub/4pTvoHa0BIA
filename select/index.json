@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "不完全ドリーマー",
+  "base_artist": "AIMI",
+  "createdAt": "2026-02-28T07:07:52.702498Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "不完全ドリーマー",
+      "artist": "Aimi",
+      "has_synced": true,
+      "path": "select/01_不完全ドリーマー_Aimi.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "不完全ドリーマー",
+      "artist": "愛美",
+      "has_synced": true,
+      "path": "select/02_不完全ドリーマー_愛美.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "不完全ドリーマー",
+      "artist": "愛美",
+      "has_synced": false,
+      "path": "select/pl_01_不完全ドリーマー_愛美.txt"
+    }
+  ]
+}
